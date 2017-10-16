@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Personalitzar Salutacio</string>
+    <string name="personalitzar">Personalitzar</string>
+    <string name="introdueixNom">Introdueix el teu nom</string>
+    <string name="finalitzar">Finalitzar</string>
+    <string name="missatgeSalutacio">Hola %s!!!</string>
+    <string name="defaultName">Mon</string>
+</resources>
